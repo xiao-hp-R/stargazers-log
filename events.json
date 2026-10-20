@@ -1,0 +1,20 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "description": "Learn to code for free with interactive lessons and projects.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starredAt": "2025-01-15"
+  },
+  {
+    "name": "The Algorithms - JavaScript",
+    "description": "A collection of algorithms and data structures implemented in JavaScript.",
+    "url": "https://github.com/TheAlgorithms/JavaScript",
+    "starredAt": "2025-02-08"
+  },
+  {
+    "name": "project-based-learning",
+    "description": "Curated lists of project-based tutorials.",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "starredAt": "2025-03-21"
+  }
+]
